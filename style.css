@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 12rem;
+    height: 10rem;
+}
+
+img.img-destacada {
+    border-radius: 0 !important;
+    height: 8.614rem;
+}
+
+div#card {
+    width: 18rem; 
+    height: 14rem;
+}
+
+div.proy-destacados-title {
+        color: #666 !important;
+        font-weight: 500;
+}
+
+p.text-destacados {
+    color: #999 !important;
+    font-weight: 400;
+    font-size: 0.6rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+footer {
+    background-color: #000000e6;
+    height: 4rem;
+    padding-left: 8rem !important;
+    padding-top: 0.7rem;
+    margin-top: 2rem;
+}
+
+h4.foot-title {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+h5.foot-msg {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+
+/*nosotros*/
+img#slider2 {
+    width: 100%;
+    background-color: #000;
+    height: 350px;
+    overflow: hidden;
+}
+
+h2.titulo-nosotros {
+    font-weight: 700;
+    color: #666;
+}
+
+h3.subtitulo-nosotros {
+    font-weight: 400;
+    color: #999;
+}
+/*Portafolio*/
+div.portf-header {
+    background-color: #666;
+    color:#fff;
+}
+li.item-portafolio {
+    color: #666;
+}
+
+div.proy-portf {
+    height: 3rem;
+}
+
+div.section-ports {
+    width: 10rem;
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 20rem;
+}
+
+h2 {
+    font-weight: 700;
+    color: #666;
+}
+/*contacto*/
+div.icons {
+    position: relative;
+    text-align: center;
+}
+svg {
+    width: 5rem;
+    height: 5rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    display: inline-block;
+}
+
+h4.contacto {
+    font-weight: 400;
+    color: #999;
+    font-size: 1rem;
+}
+
+/*Portafolio*/
+div.portf-header {
+    background-color: #666;
+    color:#fff;
+}
+li.item-portafolio {
+    color: #666;
+}
+
+div.proy-portf {
+    height: 3rem;
+}
+
+div.section-ports {
+    width: 10rem;
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 20rem;
+}
+
+h2 {
+    font-weight: 700;
+    color: #666;
+}
+
+p.text-destacados {
+    color: #999 !important;
+    font-weight: 400;
+    font-size: 0.6rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+/*contacto*/
+div.icons {
+    position: relative;
+    text-align: center;
+}
+svg {
+    width: 5rem;
+    height: 5rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    display: inline-block;
+}
+
+h4.contacto {
+    font-weight: 400;
+    color: #999;
+    font-size: 1rem;
+}
